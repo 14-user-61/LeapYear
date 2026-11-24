@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LeapYearCheck
+namespace Task1_LeapYear
 {
     class Program
     {
