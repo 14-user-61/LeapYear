@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="ConsoleApp1/Task1_LeapYear.csproj" />
+  <Project Path="Task 4_Calculator/Task 4_Calculator.csproj" Id="aa724cd1-0aaa-445e-b20f-02620bd82369" />
   <Project Path="Task3_Millionaire/Task3_Millionaire.csproj" Id="280be008-aaea-4f43-9f69-7fd71a7ff05e" />
   <Project Path="ЗАВДАННЯ 2 ТРИКУТНИК/TASK_2_TRIANGLE.csproj" Id="ca7fc418-df55-4e6b-a2ae-64354e57558b" />
 </Solution>
